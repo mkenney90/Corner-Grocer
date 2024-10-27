@@ -1,0 +1,420 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(320,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(320,21): error C2146: syntax error: missing ';' before identifier 'intptr_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(323,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(324,1): error C2146: syntax error: missing ';' before identifier '__dead'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(328,26): error C2061: syntax error: identifier 'uid_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(333,6): error C3646: '__attribute__': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(333,19): error C2059: syntax error: '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(333,34): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(333,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(336,6): error C3646: '__attribute__': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(336,19): error C2059: syntax error: '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(336,34): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(336,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(336,21): error C2086: 'int __sentinel__': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(333,21):
+      see declaration of '__sentinel__'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,8): error C2146: syntax error: missing ';' before identifier 'fork'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,3): error C3646: '__attribute__': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,16): error C2059: syntax error: '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,29): error C2143: syntax error: missing ')' before '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,30): error C2065: '__string__': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,29): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,29):
+      The initializer contains too many elements
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,45): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,46): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(347,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(347,8): error C2146: syntax error: missing ';' before identifier 'getegid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(348,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(348,8): error C2146: syntax error: missing ';' before identifier 'geteuid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(349,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(349,1): error C2086: 'int gid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(347,1):
+      see declaration of 'gid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(349,8): error C2146: syntax error: missing ';' before identifier 'getgid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(350,21): error C2061: syntax error: identifier 'gid_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(352,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(352,1): error C2086: 'int pid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1):
+      see declaration of 'pid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(352,8): error C2146: syntax error: missing ';' before identifier 'getpgrp'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(353,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(353,1): error C2086: 'int pid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1):
+      see declaration of 'pid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(353,8): error C2146: syntax error: missing ';' before identifier 'getpid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(354,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(354,1): error C2086: 'int pid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1):
+      see declaration of 'pid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(354,8): error C2146: syntax error: missing ';' before identifier 'getppid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(355,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(355,1): error C2086: 'int uid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(348,1):
+      see declaration of 'uid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(355,8): error C2146: syntax error: missing ';' before identifier 'getuid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(365,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(365,10): error C2146: syntax error: missing ';' before identifier 'read'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(372,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(372,1): error C2086: 'int pid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1):
+      see declaration of 'pid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(372,8): error C2146: syntax error: missing ';' before identifier 'tcgetpgrp'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(373,21): error C2061: syntax error: identifier 'pid_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(375,6): warning C4273: 'unlink': inconsistent dll linkage
+  (compiling source file 'Source.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(386,30):
+      see previous definition of 'unlink'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(376,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(376,1): error C2086: 'int ssize_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(365,1):
+      see declaration of 'ssize_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(376,10): error C2146: syntax error: missing ';' before identifier 'write'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(410,18): error C2061: syntax error: identifier 'uid_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,3): error C3646: '__attribute__': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,17): error C2059: syntax error: '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,30): error C2143: syntax error: missing ')' before '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,19): error C2374: '__bounded__': redefinition; multiple initialization
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,18):
+      see declaration of '__bounded__'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,31): error C2065: '__minbytes__': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,51): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(413,52): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(414,27): error C2061: syntax error: identifier 'uid_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(418,14): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(418,14):
+      The initializer contains too many elements
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(419,14): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(419,14):
+      The initializer contains too many elements
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(420,54): error C2061: syntax error: identifier 'ssize_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(423,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(423,13): error C2146: syntax error: missing ';' before identifier 'ualarm'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(425,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(425,1): error C2086: 'int pid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1):
+      see declaration of 'pid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(425,8): error C2146: syntax error: missing ';' before identifier 'vfork'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,3): error C3646: '__attribute__': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,17): error C2059: syntax error: '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,30): error C2143: syntax error: missing ')' before '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,19): error C2374: '__bounded__': redefinition; multiple initialization
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,18):
+      see declaration of '__bounded__'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,31): error C2065: '__string__': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,46): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(459,47): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(478,22): error C2059: syntax error: ','
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(479,22): error C2059: syntax error: ','
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(480,14): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(480,14):
+      The initializer contains too many elements
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(481,14): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(481,14):
+      The initializer contains too many elements
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(495,19): error C2065: 'u_int32_t': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,3): error C3646: '__attribute__': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,17): error C2059: syntax error: '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,30): error C2143: syntax error: missing ')' before '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,19): error C2374: '__bounded__': redefinition; multiple initialization
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,18):
+      see declaration of '__bounded__'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,31): error C2065: '__string__': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,46): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(497,47): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(499,33): error C2061: syntax error: identifier 'gid_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(500,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(500,9): error C2146: syntax error: missing ';' before identifier 'getmode'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(501,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(501,1): error C2086: 'int pid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1):
+      see declaration of 'pid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(501,8): error C2146: syntax error: missing ';' before identifier 'getthrid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(502,24): error C2062: type 'char' unexpected
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(504,31): error C2061: syntax error: identifier 'gid_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,3): error C3646: '__attribute__': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,17): error C2059: syntax error: '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,30): error C2143: syntax error: missing ')' before '('
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,19): error C2374: '__bounded__': redefinition; multiple initialization
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(346,18):
+      see declaration of '__bounded__'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,31): error C2065: '__string__': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,46): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(510,47): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(524,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(524,33): error C2143: syntax error: missing ',' before '*'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(529,20): error C2146: syntax error: missing ')' before identifier '_pid'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(530,24): error C2059: syntax error: 'const'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(532,27): error C2061: syntax error: identifier 'u_int32_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(536,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(536,1): error C2086: 'int pid_t': redefinition
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(343,1):
+      see declaration of 'pid_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(536,8): error C2146: syntax error: missing ';' before identifier '__tfork_thread'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\assert.h(17,1): error C2144: syntax error: 'int' should be preceded by ';'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(539,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\pyport.h(177,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\pyport.h(177,9): error C2378: 'ssize_t': redefinition; symbol cannot be overloaded with a typedef
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unistd.h(365,1):
+      see declaration of 'ssize_t'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\pyport.h(177,25): error C2146: syntax error: missing ';' before identifier 'Py_ssize_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\pyport.h(186,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\pyport.h(186,20): error C2146: syntax error: missing ';' before identifier 'Py_hash_t'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\pyport.h(261,1): error C1189: #error:  "This platform's pyconfig.h needs to define PY_FORMAT_LONG_LONG"
+  (compiling source file 'Source.cpp')
+  
